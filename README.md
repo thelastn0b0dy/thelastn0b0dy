@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ege Açıkgöz
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning C++
+- 📫 You can reach me via [mail](mailto:thelastnob0dy@protonmail.com)
